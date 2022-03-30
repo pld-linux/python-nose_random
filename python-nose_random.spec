@@ -7,7 +7,7 @@ Summary:	Random scenario testing in Nose
 Summary(pl.UTF-8):	Testowanie losowych scenariuszy w Nose
 Name:		python-nose_random
 Version:	1.0.0
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://github.com/fzumstein/nose-random/releases
